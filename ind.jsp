@@ -1,9 +1,3 @@
-<%-- 
-    Document   : ind
-    Created on : 17-Apr-2021, 8:42:18 pm
-    Author     : rishav
---%>
-
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
